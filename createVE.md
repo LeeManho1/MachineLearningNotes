@@ -1,4 +1,4 @@
-#Create a new virtual envirnment in Linux
+# Create a new virtual envirnment in Linux
 
 First of all, create a new vitrual envirnment named MLP.
 '''bs
